@@ -1,0 +1,1095 @@
+Subject: Accounting
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Apparel Merchandising Design
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Art
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Biology
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Business Administration
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Chemistry
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Chinese
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Civil Engineering
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Communications Specialist
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Communications
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Communicative Sci Disorders
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Computer Sciences
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Construction Management
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Counseling
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Criminal Justice
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Curriculum and Inst Mth Edu
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Curriculum and Instruction
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Department Change
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Dept of Social Sciences
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Early Childhood Education
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Early Childhood Elementary Ed
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Economics
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Education Administration
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Education
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Educational Leadership
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Electrical Engineering
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Elementary Education
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Engineering General Courses
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: English
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Entrepreneurship
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Experiential Learn Opportunity
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Family and Consumer Sciences
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Finance
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Food and Animal Science
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Foundation of Education
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: French
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: GEN
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Geography
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Graduate Studies
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Health Education
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Health Physical Education
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: History
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Human Dev and Family Studies
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Liberal Studies
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Logistics Supply Chain Mgmt
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Management Info Systems
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Management
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Marketing
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Mathematics
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Mechanical Engineering
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Military Science
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Music
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Natural Res and Environ Sci
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Nutrition and Hospitality Mgmt
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Orientation
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Philosophy
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Physical Education
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Physics
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Political Science
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Psychology
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Public Administration
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Reading
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Science Education
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Secondary Education
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Social Work
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Sociology
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Spanish
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Special Education
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Sport Management
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Systems Engineering
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Urban and Regional Planning
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Urban Planning
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
+Subject: Visual Art
+0,1,2
+101,ACCT Professional Devp I,
+203,Financial Accounting Princ.,
+204,Managerial Accounting Princ.,
+301,Intermediate Accounting I,
+303,Cost Accounting,
+304,Acct Professional Devp II,
+306,Intermediate Accounting III,
+390,ELO in Accounting,
+395,Accounting Internship,
+451,Taxation II,
+461,Seminar in Intl Accounting,
+
+
