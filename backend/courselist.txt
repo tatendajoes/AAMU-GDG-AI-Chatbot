@@ -1,0 +1,1206 @@
+
+Subject: Accounting
+Course Code: A100
+Course Title: Introduction to Accounting Design
+Description: This course covers introduction to accounting design with emphasis on practical and theoretical aspects.
+Prerequisites: None
+Offered: "Summer, Spring"
+Keywords: "Accounting, Introduction, to, Accounting, Design, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: None"
+---
+Subject: Accounting
+Course Code: A109
+Course Title: Introduction to Accounting Design
+Description: This course covers introduction to accounting design with emphasis on practical and theoretical aspects.
+Prerequisites: A100 - Introduction to Accounting Design
+Offered: Spring
+Keywords: "Accounting, Introduction, to, Accounting, Design, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: A100 - Introduction to Accounting Design"
+---
+Subject: Accounting
+Course Code: A118
+Course Title: Principles of Accounting Systems
+Description: This course covers principles of accounting systems with emphasis on practical and theoretical aspects.
+Prerequisites: A109 - Introduction to Accounting Design
+Offered: "Spring, Fall, Summer"
+Keywords: "Accounting, Principles, of, Accounting, Systems, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: A109 - Introduction to Accounting Design"
+---
+Subject: Accounting
+Course Code: A127
+Course Title: Introduction to Accounting Management
+Description: This course covers introduction to accounting management with emphasis on practical and theoretical aspects.
+Prerequisites: A118 - Principles of Accounting Systems
+Offered: "Summer, Spring"
+Keywords: "Accounting, Introduction, to, Accounting, Management, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: A118 - Principles of Accounting Systems"
+---
+Subject: Accounting
+Course Code: A136
+Course Title: Introduction to Accounting Analysis
+Description: This course covers introduction to accounting analysis with emphasis on practical and theoretical aspects.
+Prerequisites: A127 - Introduction to Accounting Management
+Offered: "Fall, Spring"
+Keywords: "Accounting, Introduction, to, Accounting, Analysis, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Development, prerequisites: A127 - Introduction to Accounting Management"
+---
+Subject: Accounting
+Course Code: A145
+Course Title: Principles of Accounting Theory
+Description: This course covers principles of accounting theory with emphasis on practical and theoretical aspects.
+Prerequisites: A136 - Introduction to Accounting Analysis
+Offered: "Summer, Spring, Fall"
+Keywords: "Accounting, Principles, of, Accounting, Theory, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: A136 - Introduction to Accounting Analysis"
+---
+Subject: Accounting
+Course Code: A154
+Course Title: Fundamentals of Accounting Applications
+Description: This course covers fundamentals of accounting applications with emphasis on practical and theoretical aspects.
+Prerequisites: A145 - Principles of Accounting Theory
+Offered: "Summer, Spring"
+Keywords: "Accounting, Fundamentals, of, Accounting, Applications, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: A145 - Principles of Accounting Theory"
+---
+Subject: Accounting
+Course Code: A163
+Course Title: Fundamentals of Accounting Analysis
+Description: This course covers fundamentals of accounting analysis with emphasis on practical and theoretical aspects.
+Prerequisites: A154 - Fundamentals of Accounting Applications
+Offered: Summer
+Keywords: "Accounting, Fundamentals, of, Accounting, Analysis, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: A154 - Fundamentals of Accounting Applications"
+---
+Subject: Accounting
+Course Code: A172
+Course Title: Fundamentals of Accounting Analysis
+Description: This course covers fundamentals of accounting analysis with emphasis on practical and theoretical aspects.
+Prerequisites: A163 - Fundamentals of Accounting Analysis
+Offered: "Spring, Summer"
+Keywords: "Accounting, Fundamentals, of, Accounting, Analysis, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: A163 - Fundamentals of Accounting Analysis"
+---
+Subject: Accounting
+Course Code: A181
+Course Title: Introduction to Accounting Systems
+Description: This course covers introduction to accounting systems with emphasis on practical and theoretical aspects.
+Prerequisites: A172 - Fundamentals of Accounting Analysis
+Offered: "Spring, Summer"
+Keywords: "Accounting, Introduction, to, Accounting, Systems, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: A172 - Fundamentals of Accounting Analysis"
+---
+Subject: Accounting
+Course Code: A190
+Course Title: Fundamentals of Accounting Systems
+Description: This course covers fundamentals of accounting systems with emphasis on practical and theoretical aspects.
+Prerequisites: A181 - Introduction to Accounting Systems
+Offered: Fall
+Keywords: "Accounting, Fundamentals, of, Accounting, Systems, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: A181 - Introduction to Accounting Systems"
+---
+Subject: Apparel Merchandising Design
+Course Code: AMD100
+Course Title: Introduction to Apparel Merchandising Design Practice
+Description: This course covers introduction to apparel merchandising design practice with emphasis on practical and theoretical aspects.
+Prerequisites: None
+Offered: "Summer, Spring, Fall"
+Keywords: "Apparel Merchandising Design, Introduction, to, Apparel, Merchandising, Design, Practice, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: None"
+---
+Subject: Apparel Merchandising Design
+Course Code: AMD109
+Course Title: Principles of Apparel Merchandising Design Development
+Description: This course covers principles of apparel merchandising design development with emphasis on practical and theoretical aspects.
+Prerequisites: AMD100 - Introduction to Apparel Merchandising Design Practice
+Offered: Summer
+Keywords: "Apparel Merchandising Design, Principles, of, Apparel, Merchandising, Design, Development, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: AMD100 - Introduction to Apparel Merchandising Design Practice"
+---
+Subject: Apparel Merchandising Design
+Course Code: AMD118
+Course Title: Introduction to Apparel Merchandising Design Theory
+Description: This course covers introduction to apparel merchandising design theory with emphasis on practical and theoretical aspects.
+Prerequisites: AMD109 - Principles of Apparel Merchandising Design Development
+Offered: "Spring, Fall, Summer"
+Keywords: "Apparel Merchandising Design, Introduction, to, Apparel, Merchandising, Design, Theory, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: AMD109 - Principles of Apparel Merchandising Design Development"
+---
+Subject: Apparel Merchandising Design
+Course Code: AMD127
+Course Title: Fundamentals of Apparel Merchandising Design Practice
+Description: This course covers fundamentals of apparel merchandising design practice with emphasis on practical and theoretical aspects.
+Prerequisites: AMD118 - Introduction to Apparel Merchandising Design Theory
+Offered: "Spring, Fall, Summer"
+Keywords: "Apparel Merchandising Design, Fundamentals, of, Apparel, Merchandising, Design, Practice, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: AMD118 - Introduction to Apparel Merchandising Design Theory"
+---
+Subject: Apparel Merchandising Design
+Course Code: AMD136
+Course Title: Principles of Apparel Merchandising Design Management
+Description: This course covers principles of apparel merchandising design management with emphasis on practical and theoretical aspects.
+Prerequisites: AMD127 - Fundamentals of Apparel Merchandising Design Practice
+Offered: "Spring, Fall, Summer"
+Keywords: "Apparel Merchandising Design, Principles, of, Apparel, Merchandising, Design, Management, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: AMD127 - Fundamentals of Apparel Merchandising Design Practice"
+---
+Subject: Apparel Merchandising Design
+Course Code: AMD145
+Course Title: Principles of Apparel Merchandising Design Development
+Description: This course covers principles of apparel merchandising design development with emphasis on practical and theoretical aspects.
+Prerequisites: AMD136 - Principles of Apparel Merchandising Design Management
+Offered: "Summer, Spring, Fall"
+Keywords: "Apparel Merchandising Design, Principles, of, Apparel, Merchandising, Design, Development, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: AMD136 - Principles of Apparel Merchandising Design Management"
+---
+Subject: Apparel Merchandising Design
+Course Code: AMD154
+Course Title: Fundamentals of Apparel Merchandising Design Analysis
+Description: This course covers fundamentals of apparel merchandising design analysis with emphasis on practical and theoretical aspects.
+Prerequisites: AMD145 - Principles of Apparel Merchandising Design Development
+Offered: Summer
+Keywords: "Apparel Merchandising Design, Fundamentals, of, Apparel, Merchandising, Design, Analysis, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: AMD145 - Principles of Apparel Merchandising Design Development"
+---
+Subject: Apparel Merchandising Design
+Course Code: AMD163
+Course Title: Introduction to Apparel Merchandising Design Theory
+Description: This course covers introduction to apparel merchandising design theory with emphasis on practical and theoretical aspects.
+Prerequisites: AMD154 - Fundamentals of Apparel Merchandising Design Analysis
+Offered: "Fall, Summer, Spring"
+Keywords: "Apparel Merchandising Design, Introduction, to, Apparel, Merchandising, Design, Theory, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: AMD154 - Fundamentals of Apparel Merchandising Design Analysis"
+---
+Subject: Apparel Merchandising Design
+Course Code: AMD172
+Course Title: Fundamentals of Apparel Merchandising Design Design
+Description: This course covers fundamentals of apparel merchandising design design with emphasis on practical and theoretical aspects.
+Prerequisites: AMD163 - Introduction to Apparel Merchandising Design Theory
+Offered: "Summer, Spring, Fall"
+Keywords: "Apparel Merchandising Design, Fundamentals, of, Apparel, Merchandising, Design, Design, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: AMD163 - Introduction to Apparel Merchandising Design Theory"
+---
+Subject: Apparel Merchandising Design
+Course Code: AMD181
+Course Title: Introduction to Apparel Merchandising Design Management
+Description: This course covers introduction to apparel merchandising design management with emphasis on practical and theoretical aspects.
+Prerequisites: AMD172 - Fundamentals of Apparel Merchandising Design Design
+Offered: "Fall, Summer, Spring"
+Keywords: "Apparel Merchandising Design, Introduction, to, Apparel, Merchandising, Design, Management, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: AMD172 - Fundamentals of Apparel Merchandising Design Design"
+---
+Subject: Apparel Merchandising Design
+Course Code: AMD190
+Course Title: Principles of Apparel Merchandising Design Design
+Description: This course covers principles of apparel merchandising design design with emphasis on practical and theoretical aspects.
+Prerequisites: AMD181 - Introduction to Apparel Merchandising Design Management
+Offered: "Summer, Fall, Spring"
+Keywords: "Apparel Merchandising Design, Principles, of, Apparel, Merchandising, Design, Design, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: AMD181 - Introduction to Apparel Merchandising Design Management"
+---
+Subject: Apparel Merchandising Design
+Course Code: AMD199
+Course Title: Principles of Apparel Merchandising Design Applications
+Description: This course covers principles of apparel merchandising design applications with emphasis on practical and theoretical aspects.
+Prerequisites: AMD190 - Principles of Apparel Merchandising Design Design
+Offered: "Summer, Spring"
+Keywords: "Apparel Merchandising Design, Principles, of, Apparel, Merchandising, Design, Applications, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: AMD190 - Principles of Apparel Merchandising Design Design"
+---
+Subject: Art
+Course Code: A100
+Course Title: Fundamentals of Art Practice
+Description: This course covers fundamentals of art practice with emphasis on practical and theoretical aspects.
+Prerequisites: None
+Offered: "Fall, Summer, Spring"
+Keywords: "Art, Fundamentals, of, Art, Practice, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: None"
+---
+Subject: Art
+Course Code: A109
+Course Title: Principles of Art Systems
+Description: This course covers principles of art systems with emphasis on practical and theoretical aspects.
+Prerequisites: A100 - Fundamentals of Art Practice
+Offered: Summer
+Keywords: "Art, Principles, of, Art, Systems, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: A100 - Fundamentals of Art Practice"
+---
+Subject: Art
+Course Code: A118
+Course Title: Principles of Art Development
+Description: This course covers principles of art development with emphasis on practical and theoretical aspects.
+Prerequisites: A109 - Principles of Art Systems
+Offered: Spring
+Keywords: "Art, Principles, of, Art, Development, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: A109 - Principles of Art Systems"
+---
+Subject: Art
+Course Code: A127
+Course Title: Introduction to Art Management
+Description: This course covers introduction to art management with emphasis on practical and theoretical aspects.
+Prerequisites: A118 - Principles of Art Development
+Offered: "Summer, Spring, Fall"
+Keywords: "Art, Introduction, to, Art, Management, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: A118 - Principles of Art Development"
+---
+Subject: Art
+Course Code: A136
+Course Title: Introduction to Art Development
+Description: This course covers introduction to art development with emphasis on practical and theoretical aspects.
+Prerequisites: A127 - Introduction to Art Management
+Offered: "Summer, Spring"
+Keywords: "Art, Introduction, to, Art, Development, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: A127 - Introduction to Art Management"
+---
+Subject: Art
+Course Code: A145
+Course Title: Introduction to Art Development
+Description: This course covers introduction to art development with emphasis on practical and theoretical aspects.
+Prerequisites: A136 - Introduction to Art Development
+Offered: "Fall, Summer, Spring"
+Keywords: "Art, Introduction, to, Art, Development, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: A136 - Introduction to Art Development"
+---
+Subject: Art
+Course Code: A154
+Course Title: Fundamentals of Art Systems
+Description: This course covers fundamentals of art systems with emphasis on practical and theoretical aspects.
+Prerequisites: A145 - Introduction to Art Development
+Offered: "Summer, Spring, Fall"
+Keywords: "Art, Fundamentals, of, Art, Systems, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: A145 - Introduction to Art Development"
+---
+Subject: Art
+Course Code: A163
+Course Title: Principles of Art Analysis
+Description: This course covers principles of art analysis with emphasis on practical and theoretical aspects.
+Prerequisites: A154 - Fundamentals of Art Systems
+Offered: "Spring, Fall, Summer"
+Keywords: "Art, Principles, of, Art, Analysis, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: A154 - Fundamentals of Art Systems"
+---
+Subject: Art
+Course Code: A172
+Course Title: Introduction to Art Applications
+Description: This course covers introduction to art applications with emphasis on practical and theoretical aspects.
+Prerequisites: A163 - Principles of Art Analysis
+Offered: "Fall, Summer"
+Keywords: "Art, Introduction, to, Art, Applications, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: A163 - Principles of Art Analysis"
+---
+Subject: Art
+Course Code: A181
+Course Title: Fundamentals of Art Analysis
+Description: This course covers fundamentals of art analysis with emphasis on practical and theoretical aspects.
+Prerequisites: A172 - Introduction to Art Applications
+Offered: Spring
+Keywords: "Art, Fundamentals, of, Art, Analysis, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: A172 - Introduction to Art Applications"
+---
+Subject: Art
+Course Code: A190
+Course Title: Introduction to Art Practice
+Description: This course covers introduction to art practice with emphasis on practical and theoretical aspects.
+Prerequisites: A181 - Fundamentals of Art Analysis
+Offered: "Fall, Summer, Spring"
+Keywords: "Art, Introduction, to, Art, Practice, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: A181 - Fundamentals of Art Analysis"
+---
+Subject: Biology
+Course Code: B100
+Course Title: Fundamentals of Biology Management
+Description: This course covers fundamentals of biology management with emphasis on practical and theoretical aspects.
+Prerequisites: None
+Offered: "Fall, Summer"
+Keywords: "Biology, Fundamentals, of, Biology, Management, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: None"
+---
+Subject: Biology
+Course Code: B109
+Course Title: Principles of Biology Applications
+Description: This course covers principles of biology applications with emphasis on practical and theoretical aspects.
+Prerequisites: B100 - Fundamentals of Biology Management
+Offered: "Fall, Spring, Summer"
+Keywords: "Biology, Principles, of, Biology, Applications, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: B100 - Fundamentals of Biology Management"
+---
+Subject: Biology
+Course Code: B118
+Course Title: Fundamentals of Biology Theory
+Description: This course covers fundamentals of biology theory with emphasis on practical and theoretical aspects.
+Prerequisites: B109 - Principles of Biology Applications
+Offered: "Summer, Fall"
+Keywords: "Biology, Fundamentals, of, Biology, Theory, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: B109 - Principles of Biology Applications"
+---
+Subject: Biology
+Course Code: B127
+Course Title: Fundamentals of Biology Design
+Description: This course covers fundamentals of biology design with emphasis on practical and theoretical aspects.
+Prerequisites: B118 - Fundamentals of Biology Theory
+Offered: "Fall, Summer"
+Keywords: "Biology, Fundamentals, of, Biology, Design, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: B118 - Fundamentals of Biology Theory"
+---
+Subject: Biology
+Course Code: B136
+Course Title: Principles of Biology Development
+Description: This course covers principles of biology development with emphasis on practical and theoretical aspects.
+Prerequisites: B127 - Fundamentals of Biology Design
+Offered: "Summer, Fall"
+Keywords: "Biology, Principles, of, Biology, Development, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: B127 - Fundamentals of Biology Design"
+---
+Subject: Biology
+Course Code: B145
+Course Title: Principles of Biology Development
+Description: This course covers principles of biology development with emphasis on practical and theoretical aspects.
+Prerequisites: B136 - Principles of Biology Development
+Offered: "Spring, Summer"
+Keywords: "Biology, Principles, of, Biology, Development, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: B136 - Principles of Biology Development"
+---
+Subject: Biology
+Course Code: B154
+Course Title: Principles of Biology Analysis
+Description: This course covers principles of biology analysis with emphasis on practical and theoretical aspects.
+Prerequisites: B145 - Principles of Biology Development
+Offered: "Fall, Spring"
+Keywords: "Biology, Principles, of, Biology, Analysis, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: B145 - Principles of Biology Development"
+---
+Subject: Biology
+Course Code: B163
+Course Title: Fundamentals of Biology Theory
+Description: This course covers fundamentals of biology theory with emphasis on practical and theoretical aspects.
+Prerequisites: B154 - Principles of Biology Analysis
+Offered: "Fall, Spring"
+Keywords: "Biology, Fundamentals, of, Biology, Theory, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: B154 - Principles of Biology Analysis"
+---
+Subject: Business Administration
+Course Code: BA100
+Course Title: Introduction to Business Administration Management
+Description: This course covers introduction to business administration management with emphasis on practical and theoretical aspects.
+Prerequisites: None
+Offered: Summer
+Keywords: "Business Administration, Introduction, to, Business, Administration, Management, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: None"
+---
+Subject: Business Administration
+Course Code: BA109
+Course Title: Introduction to Business Administration Systems
+Description: This course covers introduction to business administration systems with emphasis on practical and theoretical aspects.
+Prerequisites: BA100 - Introduction to Business Administration Management
+Offered: Spring
+Keywords: "Business Administration, Introduction, to, Business, Administration, Systems, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: BA100 - Introduction to Business Administration Management"
+---
+Subject: Business Administration
+Course Code: BA118
+Course Title: Fundamentals of Business Administration Design
+Description: This course covers fundamentals of business administration design with emphasis on practical and theoretical aspects.
+Prerequisites: BA109 - Introduction to Business Administration Systems
+Offered: Fall
+Keywords: "Business Administration, Fundamentals, of, Business, Administration, Design, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: BA109 - Introduction to Business Administration Systems"
+---
+Subject: Business Administration
+Course Code: BA127
+Course Title: Introduction to Business Administration Applications
+Description: This course covers introduction to business administration applications with emphasis on practical and theoretical aspects.
+Prerequisites: BA118 - Fundamentals of Business Administration Design
+Offered: "Summer, Fall"
+Keywords: "Business Administration, Introduction, to, Business, Administration, Applications, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: BA118 - Fundamentals of Business Administration Design"
+---
+Subject: Business Administration
+Course Code: BA136
+Course Title: Principles of Business Administration Analysis
+Description: This course covers principles of business administration analysis with emphasis on practical and theoretical aspects.
+Prerequisites: BA127 - Introduction to Business Administration Applications
+Offered: "Summer, Fall, Spring"
+Keywords: "Business Administration, Principles, of, Business, Administration, Analysis, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: BA127 - Introduction to Business Administration Applications"
+---
+Subject: Business Administration
+Course Code: BA145
+Course Title: Principles of Business Administration Analysis
+Description: This course covers principles of business administration analysis with emphasis on practical and theoretical aspects.
+Prerequisites: BA136 - Principles of Business Administration Analysis
+Offered: "Spring, Fall, Summer"
+Keywords: "Business Administration, Principles, of, Business, Administration, Analysis, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: BA136 - Principles of Business Administration Analysis"
+---
+Subject: Business Administration
+Course Code: BA154
+Course Title: Fundamentals of Business Administration Design
+Description: This course covers fundamentals of business administration design with emphasis on practical and theoretical aspects.
+Prerequisites: BA145 - Principles of Business Administration Analysis
+Offered: "Summer, Fall, Spring"
+Keywords: "Business Administration, Fundamentals, of, Business, Administration, Design, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: BA145 - Principles of Business Administration Analysis"
+---
+Subject: Business Administration
+Course Code: BA163
+Course Title: Principles of Business Administration Applications
+Description: This course covers principles of business administration applications with emphasis on practical and theoretical aspects.
+Prerequisites: BA154 - Fundamentals of Business Administration Design
+Offered: "Spring, Fall"
+Keywords: "Business Administration, Principles, of, Business, Administration, Applications, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: BA154 - Fundamentals of Business Administration Design"
+---
+Subject: Business Administration
+Course Code: BA172
+Course Title: Principles of Business Administration Practice
+Description: This course covers principles of business administration practice with emphasis on practical and theoretical aspects.
+Prerequisites: BA163 - Principles of Business Administration Applications
+Offered: Summer
+Keywords: "Business Administration, Principles, of, Business, Administration, Practice, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: BA163 - Principles of Business Administration Applications"
+---
+Subject: Business Administration
+Course Code: BA181
+Course Title: Principles of Business Administration Systems
+Description: This course covers principles of business administration systems with emphasis on practical and theoretical aspects.
+Prerequisites: BA172 - Principles of Business Administration Practice
+Offered: "Spring, Fall"
+Keywords: "Business Administration, Principles, of, Business, Administration, Systems, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: BA172 - Principles of Business Administration Practice"
+---
+Subject: Chemistry
+Course Code: C100
+Course Title: Introduction to Chemistry Design
+Description: This course covers introduction to chemistry design with emphasis on practical and theoretical aspects.
+Prerequisites: None
+Offered: Fall
+Keywords: "Chemistry, Introduction, to, Chemistry, Design, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: None"
+---
+Subject: Chemistry
+Course Code: C109
+Course Title: Fundamentals of Chemistry Design
+Description: This course covers fundamentals of chemistry design with emphasis on practical and theoretical aspects.
+Prerequisites: C100 - Introduction to Chemistry Design
+Offered: Summer
+Keywords: "Chemistry, Fundamentals, of, Chemistry, Design, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: C100 - Introduction to Chemistry Design"
+---
+Subject: Chemistry
+Course Code: C118
+Course Title: Introduction to Chemistry Management
+Description: This course covers introduction to chemistry management with emphasis on practical and theoretical aspects.
+Prerequisites: C109 - Fundamentals of Chemistry Design
+Offered: Summer
+Keywords: "Chemistry, Introduction, to, Chemistry, Management, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: C109 - Fundamentals of Chemistry Design"
+---
+Subject: Chemistry
+Course Code: C127
+Course Title: Fundamentals of Chemistry Systems
+Description: This course covers fundamentals of chemistry systems with emphasis on practical and theoretical aspects.
+Prerequisites: C118 - Introduction to Chemistry Management
+Offered: "Fall, Spring"
+Keywords: "Chemistry, Fundamentals, of, Chemistry, Systems, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: C118 - Introduction to Chemistry Management"
+---
+Subject: Chemistry
+Course Code: C136
+Course Title: Fundamentals of Chemistry Practice
+Description: This course covers fundamentals of chemistry practice with emphasis on practical and theoretical aspects.
+Prerequisites: C127 - Fundamentals of Chemistry Systems
+Offered: Summer
+Keywords: "Chemistry, Fundamentals, of, Chemistry, Practice, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: C127 - Fundamentals of Chemistry Systems"
+---
+Subject: Chemistry
+Course Code: C145
+Course Title: Introduction to Chemistry Design
+Description: This course covers introduction to chemistry design with emphasis on practical and theoretical aspects.
+Prerequisites: C136 - Fundamentals of Chemistry Practice
+Offered: "Spring, Fall"
+Keywords: "Chemistry, Introduction, to, Chemistry, Design, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: C136 - Fundamentals of Chemistry Practice"
+---
+Subject: Chemistry
+Course Code: C154
+Course Title: Principles of Chemistry Practice
+Description: This course covers principles of chemistry practice with emphasis on practical and theoretical aspects.
+Prerequisites: C145 - Introduction to Chemistry Design
+Offered: "Fall, Summer"
+Keywords: "Chemistry, Principles, of, Chemistry, Practice, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Development, prerequisites: C145 - Introduction to Chemistry Design"
+---
+Subject: Chemistry
+Course Code: C163
+Course Title: Fundamentals of Chemistry Systems
+Description: This course covers fundamentals of chemistry systems with emphasis on practical and theoretical aspects.
+Prerequisites: C154 - Principles of Chemistry Practice
+Offered: "Fall, Summer"
+Keywords: "Chemistry, Fundamentals, of, Chemistry, Systems, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: C154 - Principles of Chemistry Practice"
+---
+Subject: Chemistry
+Course Code: C172
+Course Title: Fundamentals of Chemistry Design
+Description: This course covers fundamentals of chemistry design with emphasis on practical and theoretical aspects.
+Prerequisites: C163 - Fundamentals of Chemistry Systems
+Offered: "Summer, Spring, Fall"
+Keywords: "Chemistry, Fundamentals, of, Chemistry, Design, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: C163 - Fundamentals of Chemistry Systems"
+---
+Subject: Chemistry
+Course Code: C181
+Course Title: Fundamentals of Chemistry Theory
+Description: This course covers fundamentals of chemistry theory with emphasis on practical and theoretical aspects.
+Prerequisites: C172 - Fundamentals of Chemistry Design
+Offered: Summer
+Keywords: "Chemistry, Fundamentals, of, Chemistry, Theory, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: C172 - Fundamentals of Chemistry Design"
+---
+Subject: Chemistry
+Course Code: C190
+Course Title: Introduction to Chemistry Management
+Description: This course covers introduction to chemistry management with emphasis on practical and theoretical aspects.
+Prerequisites: C181 - Fundamentals of Chemistry Theory
+Offered: "Summer, Spring, Fall"
+Keywords: "Chemistry, Introduction, to, Chemistry, Management, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: C181 - Fundamentals of Chemistry Theory"
+---
+Subject: Chemistry
+Course Code: C199
+Course Title: Fundamentals of Chemistry Management
+Description: This course covers fundamentals of chemistry management with emphasis on practical and theoretical aspects.
+Prerequisites: C190 - Introduction to Chemistry Management
+Offered: "Spring, Summer"
+Keywords: "Chemistry, Fundamentals, of, Chemistry, Management, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: C190 - Introduction to Chemistry Management"
+---
+Subject: Chinese
+Course Code: C100
+Course Title: Fundamentals of Chinese Theory
+Description: This course covers fundamentals of chinese theory with emphasis on practical and theoretical aspects.
+Prerequisites: None
+Offered: "Summer, Spring"
+Keywords: "Chinese, Fundamentals, of, Chinese, Theory, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: None"
+---
+Subject: Chinese
+Course Code: C109
+Course Title: Principles of Chinese Applications
+Description: This course covers principles of chinese applications with emphasis on practical and theoretical aspects.
+Prerequisites: C100 - Fundamentals of Chinese Theory
+Offered: Summer
+Keywords: "Chinese, Principles, of, Chinese, Applications, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: C100 - Fundamentals of Chinese Theory"
+---
+Subject: Chinese
+Course Code: C118
+Course Title: Fundamentals of Chinese Practice
+Description: This course covers fundamentals of chinese practice with emphasis on practical and theoretical aspects.
+Prerequisites: C109 - Principles of Chinese Applications
+Offered: "Spring, Fall, Summer"
+Keywords: "Chinese, Fundamentals, of, Chinese, Practice, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: C109 - Principles of Chinese Applications"
+---
+Subject: Chinese
+Course Code: C127
+Course Title: Introduction to Chinese Theory
+Description: This course covers introduction to chinese theory with emphasis on practical and theoretical aspects.
+Prerequisites: C118 - Fundamentals of Chinese Practice
+Offered: "Summer, Spring, Fall"
+Keywords: "Chinese, Introduction, to, Chinese, Theory, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: C118 - Fundamentals of Chinese Practice"
+---
+Subject: Chinese
+Course Code: C136
+Course Title: Fundamentals of Chinese Design
+Description: This course covers fundamentals of chinese design with emphasis on practical and theoretical aspects.
+Prerequisites: C127 - Introduction to Chinese Theory
+Offered: "Spring, Summer"
+Keywords: "Chinese, Fundamentals, of, Chinese, Design, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: C127 - Introduction to Chinese Theory"
+---
+Subject: Chinese
+Course Code: C145
+Course Title: Fundamentals of Chinese Practice
+Description: This course covers fundamentals of chinese practice with emphasis on practical and theoretical aspects.
+Prerequisites: C136 - Fundamentals of Chinese Design
+Offered: "Fall, Summer"
+Keywords: "Chinese, Fundamentals, of, Chinese, Practice, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: C136 - Fundamentals of Chinese Design"
+---
+Subject: Chinese
+Course Code: C154
+Course Title: Introduction to Chinese Management
+Description: This course covers introduction to chinese management with emphasis on practical and theoretical aspects.
+Prerequisites: C145 - Fundamentals of Chinese Practice
+Offered: "Spring, Summer"
+Keywords: "Chinese, Introduction, to, Chinese, Management, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: C145 - Fundamentals of Chinese Practice"
+---
+Subject: Chinese
+Course Code: C163
+Course Title: Introduction to Chinese Systems
+Description: This course covers introduction to chinese systems with emphasis on practical and theoretical aspects.
+Prerequisites: C154 - Introduction to Chinese Management
+Offered: "Summer, Spring, Fall"
+Keywords: "Chinese, Introduction, to, Chinese, Systems, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: C154 - Introduction to Chinese Management"
+---
+Subject: Civil Engineering
+Course Code: CE100
+Course Title: Principles of Civil Engineering Development
+Description: This course covers principles of civil engineering development with emphasis on practical and theoretical aspects.
+Prerequisites: None
+Offered: Fall
+Keywords: "Civil Engineering, Principles, of, Civil, Engineering, Development, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: None"
+---
+Subject: Civil Engineering
+Course Code: CE109
+Course Title: Fundamentals of Civil Engineering Applications
+Description: This course covers fundamentals of civil engineering applications with emphasis on practical and theoretical aspects.
+Prerequisites: CE100 - Principles of Civil Engineering Development
+Offered: Fall
+Keywords: "Civil Engineering, Fundamentals, of, Civil, Engineering, Applications, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CE100 - Principles of Civil Engineering Development"
+---
+Subject: Civil Engineering
+Course Code: CE118
+Course Title: Introduction to Civil Engineering Theory
+Description: This course covers introduction to civil engineering theory with emphasis on practical and theoretical aspects.
+Prerequisites: CE109 - Fundamentals of Civil Engineering Applications
+Offered: "Spring, Fall, Summer"
+Keywords: "Civil Engineering, Introduction, to, Civil, Engineering, Theory, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CE109 - Fundamentals of Civil Engineering Applications"
+---
+Subject: Civil Engineering
+Course Code: CE127
+Course Title: Introduction to Civil Engineering Theory
+Description: This course covers introduction to civil engineering theory with emphasis on practical and theoretical aspects.
+Prerequisites: CE118 - Introduction to Civil Engineering Theory
+Offered: Fall
+Keywords: "Civil Engineering, Introduction, to, Civil, Engineering, Theory, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CE118 - Introduction to Civil Engineering Theory"
+---
+Subject: Civil Engineering
+Course Code: CE136
+Course Title: Fundamentals of Civil Engineering Theory
+Description: This course covers fundamentals of civil engineering theory with emphasis on practical and theoretical aspects.
+Prerequisites: CE127 - Introduction to Civil Engineering Theory
+Offered: "Spring, Fall"
+Keywords: "Civil Engineering, Fundamentals, of, Civil, Engineering, Theory, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CE127 - Introduction to Civil Engineering Theory"
+---
+Subject: Civil Engineering
+Course Code: CE145
+Course Title: Introduction to Civil Engineering Theory
+Description: This course covers introduction to civil engineering theory with emphasis on practical and theoretical aspects.
+Prerequisites: CE136 - Fundamentals of Civil Engineering Theory
+Offered: "Spring, Fall"
+Keywords: "Civil Engineering, Introduction, to, Civil, Engineering, Theory, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CE136 - Fundamentals of Civil Engineering Theory"
+---
+Subject: Civil Engineering
+Course Code: CE154
+Course Title: Fundamentals of Civil Engineering Practice
+Description: This course covers fundamentals of civil engineering practice with emphasis on practical and theoretical aspects.
+Prerequisites: CE145 - Introduction to Civil Engineering Theory
+Offered: "Fall, Summer, Spring"
+Keywords: "Civil Engineering, Fundamentals, of, Civil, Engineering, Practice, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CE145 - Introduction to Civil Engineering Theory"
+---
+Subject: Civil Engineering
+Course Code: CE163
+Course Title: Principles of Civil Engineering Development
+Description: This course covers principles of civil engineering development with emphasis on practical and theoretical aspects.
+Prerequisites: CE154 - Fundamentals of Civil Engineering Practice
+Offered: Summer
+Keywords: "Civil Engineering, Principles, of, Civil, Engineering, Development, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CE154 - Fundamentals of Civil Engineering Practice"
+---
+Subject: Civil Engineering
+Course Code: CE172
+Course Title: Introduction to Civil Engineering Design
+Description: This course covers introduction to civil engineering design with emphasis on practical and theoretical aspects.
+Prerequisites: CE163 - Principles of Civil Engineering Development
+Offered: "Summer, Fall"
+Keywords: "Civil Engineering, Introduction, to, Civil, Engineering, Design, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CE163 - Principles of Civil Engineering Development"
+---
+Subject: Civil Engineering
+Course Code: CE181
+Course Title: Fundamentals of Civil Engineering Practice
+Description: This course covers fundamentals of civil engineering practice with emphasis on practical and theoretical aspects.
+Prerequisites: CE172 - Introduction to Civil Engineering Design
+Offered: Fall
+Keywords: "Civil Engineering, Fundamentals, of, Civil, Engineering, Practice, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CE172 - Introduction to Civil Engineering Design"
+---
+Subject: Civil Engineering
+Course Code: CE190
+Course Title: Fundamentals of Civil Engineering Theory
+Description: This course covers fundamentals of civil engineering theory with emphasis on practical and theoretical aspects.
+Prerequisites: CE181 - Fundamentals of Civil Engineering Practice
+Offered: "Spring, Fall"
+Keywords: "Civil Engineering, Fundamentals, of, Civil, Engineering, Theory, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CE181 - Fundamentals of Civil Engineering Practice"
+---
+Subject: Communications Specialist
+Course Code: CS100
+Course Title: Principles of Communications Specialist Management
+Description: This course covers principles of communications specialist management with emphasis on practical and theoretical aspects.
+Prerequisites: None
+Offered: "Summer, Fall"
+Keywords: "Communications Specialist, Principles, of, Communications, Specialist, Management, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: None"
+---
+Subject: Communications Specialist
+Course Code: CS109
+Course Title: Introduction to Communications Specialist Theory
+Description: This course covers introduction to communications specialist theory with emphasis on practical and theoretical aspects.
+Prerequisites: CS100 - Principles of Communications Specialist Management
+Offered: "Summer, Spring"
+Keywords: "Communications Specialist, Introduction, to, Communications, Specialist, Theory, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CS100 - Principles of Communications Specialist Management"
+---
+Subject: Communications Specialist
+Course Code: CS118
+Course Title: Principles of Communications Specialist Applications
+Description: This course covers principles of communications specialist applications with emphasis on practical and theoretical aspects.
+Prerequisites: CS109 - Introduction to Communications Specialist Theory
+Offered: "Summer, Fall"
+Keywords: "Communications Specialist, Principles, of, Communications, Specialist, Applications, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CS109 - Introduction to Communications Specialist Theory"
+---
+Subject: Communications Specialist
+Course Code: CS127
+Course Title: Introduction to Communications Specialist Design
+Description: This course covers introduction to communications specialist design with emphasis on practical and theoretical aspects.
+Prerequisites: CS118 - Principles of Communications Specialist Applications
+Offered: "Summer, Fall, Spring"
+Keywords: "Communications Specialist, Introduction, to, Communications, Specialist, Design, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CS118 - Principles of Communications Specialist Applications"
+---
+Subject: Communications Specialist
+Course Code: CS136
+Course Title: Introduction to Communications Specialist Theory
+Description: This course covers introduction to communications specialist theory with emphasis on practical and theoretical aspects.
+Prerequisites: CS127 - Introduction to Communications Specialist Design
+Offered: "Summer, Fall"
+Keywords: "Communications Specialist, Introduction, to, Communications, Specialist, Theory, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CS127 - Introduction to Communications Specialist Design"
+---
+Subject: Communications Specialist
+Course Code: CS145
+Course Title: Introduction to Communications Specialist Development
+Description: This course covers introduction to communications specialist development with emphasis on practical and theoretical aspects.
+Prerequisites: CS136 - Introduction to Communications Specialist Theory
+Offered: Fall
+Keywords: "Communications Specialist, Introduction, to, Communications, Specialist, Development, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CS136 - Introduction to Communications Specialist Theory"
+---
+Subject: Communications Specialist
+Course Code: CS154
+Course Title: Introduction to Communications Specialist Development
+Description: This course covers introduction to communications specialist development with emphasis on practical and theoretical aspects.
+Prerequisites: CS145 - Introduction to Communications Specialist Development
+Offered: "Spring, Summer"
+Keywords: "Communications Specialist, Introduction, to, Communications, Specialist, Development, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CS145 - Introduction to Communications Specialist Development"
+---
+Subject: Communications Specialist
+Course Code: CS163
+Course Title: Principles of Communications Specialist Analysis
+Description: This course covers principles of communications specialist analysis with emphasis on practical and theoretical aspects.
+Prerequisites: CS154 - Introduction to Communications Specialist Development
+Offered: "Summer, Spring, Fall"
+Keywords: "Communications Specialist, Principles, of, Communications, Specialist, Analysis, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CS154 - Introduction to Communications Specialist Development"
+---
+Subject: Communications Specialist
+Course Code: CS172
+Course Title: Principles of Communications Specialist Theory
+Description: This course covers principles of communications specialist theory with emphasis on practical and theoretical aspects.
+Prerequisites: CS163 - Principles of Communications Specialist Analysis
+Offered: "Spring, Summer"
+Keywords: "Communications Specialist, Principles, of, Communications, Specialist, Theory, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CS163 - Principles of Communications Specialist Analysis"
+---
+Subject: Communications Specialist
+Course Code: CS181
+Course Title: Fundamentals of Communications Specialist Development
+Description: This course covers fundamentals of communications specialist development with emphasis on practical and theoretical aspects.
+Prerequisites: CS172 - Principles of Communications Specialist Theory
+Offered: "Fall, Summer"
+Keywords: "Communications Specialist, Fundamentals, of, Communications, Specialist, Development, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CS172 - Principles of Communications Specialist Theory"
+---
+Subject: Communications Specialist
+Course Code: CS190
+Course Title: Principles of Communications Specialist Design
+Description: This course covers principles of communications specialist design with emphasis on practical and theoretical aspects.
+Prerequisites: CS181 - Fundamentals of Communications Specialist Development
+Offered: "Spring, Summer, Fall"
+Keywords: "Communications Specialist, Principles, of, Communications, Specialist, Design, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CS181 - Fundamentals of Communications Specialist Development"
+---
+Subject: Communications
+Course Code: C100
+Course Title: Fundamentals of Communications Systems
+Description: This course covers fundamentals of communications systems with emphasis on practical and theoretical aspects.
+Prerequisites: None
+Offered: "Fall, Summer, Spring"
+Keywords: "Communications, Fundamentals, of, Communications, Systems, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: None"
+---
+Subject: Communications
+Course Code: C109
+Course Title: Principles of Communications Management
+Description: This course covers principles of communications management with emphasis on practical and theoretical aspects.
+Prerequisites: C100 - Fundamentals of Communications Systems
+Offered: "Summer, Spring"
+Keywords: "Communications, Principles, of, Communications, Management, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: C100 - Fundamentals of Communications Systems"
+---
+Subject: Communications
+Course Code: C118
+Course Title: Introduction to Communications Design
+Description: This course covers introduction to communications design with emphasis on practical and theoretical aspects.
+Prerequisites: C109 - Principles of Communications Management
+Offered: "Summer, Fall, Spring"
+Keywords: "Communications, Introduction, to, Communications, Design, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: C109 - Principles of Communications Management"
+---
+Subject: Communications
+Course Code: C127
+Course Title: Introduction to Communications Applications
+Description: This course covers introduction to communications applications with emphasis on practical and theoretical aspects.
+Prerequisites: C118 - Introduction to Communications Design
+Offered: Summer
+Keywords: "Communications, Introduction, to, Communications, Applications, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: C118 - Introduction to Communications Design"
+---
+Subject: Communications
+Course Code: C136
+Course Title: Introduction to Communications Systems
+Description: This course covers introduction to communications systems with emphasis on practical and theoretical aspects.
+Prerequisites: C127 - Introduction to Communications Applications
+Offered: "Spring, Fall, Summer"
+Keywords: "Communications, Introduction, to, Communications, Systems, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: C127 - Introduction to Communications Applications"
+---
+Subject: Communications
+Course Code: C145
+Course Title: Introduction to Communications Practice
+Description: This course covers introduction to communications practice with emphasis on practical and theoretical aspects.
+Prerequisites: C136 - Introduction to Communications Systems
+Offered: "Fall, Spring, Summer"
+Keywords: "Communications, Introduction, to, Communications, Practice, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: C136 - Introduction to Communications Systems"
+---
+Subject: Communications
+Course Code: C154
+Course Title: Fundamentals of Communications Practice
+Description: This course covers fundamentals of communications practice with emphasis on practical and theoretical aspects.
+Prerequisites: C145 - Introduction to Communications Practice
+Offered: "Spring, Summer"
+Keywords: "Communications, Fundamentals, of, Communications, Practice, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: C145 - Introduction to Communications Practice"
+---
+Subject: Communications
+Course Code: C163
+Course Title: Introduction to Communications Development
+Description: This course covers introduction to communications development with emphasis on practical and theoretical aspects.
+Prerequisites: C154 - Fundamentals of Communications Practice
+Offered: Summer
+Keywords: "Communications, Introduction, to, Communications, Development, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: C154 - Fundamentals of Communications Practice"
+---
+Subject: Communications
+Course Code: C172
+Course Title: Principles of Communications Applications
+Description: This course covers principles of communications applications with emphasis on practical and theoretical aspects.
+Prerequisites: C163 - Introduction to Communications Development
+Offered: "Fall, Spring"
+Keywords: "Communications, Principles, of, Communications, Applications, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: C163 - Introduction to Communications Development"
+---
+Subject: Communications
+Course Code: C181
+Course Title: Fundamentals of Communications Management
+Description: This course covers fundamentals of communications management with emphasis on practical and theoretical aspects.
+Prerequisites: C172 - Principles of Communications Applications
+Offered: "Summer, Spring, Fall"
+Keywords: "Communications, Fundamentals, of, Communications, Management, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: C172 - Principles of Communications Applications"
+---
+Subject: Communications
+Course Code: C190
+Course Title: Introduction to Communications Applications
+Description: This course covers introduction to communications applications with emphasis on practical and theoretical aspects.
+Prerequisites: C181 - Fundamentals of Communications Management
+Offered: Summer
+Keywords: "Communications, Introduction, to, Communications, Applications, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: C181 - Fundamentals of Communications Management"
+---
+Subject: Communicative Sci Disorders
+Course Code: CSD100
+Course Title: Fundamentals of Communicative Sci Disorders Development
+Description: This course covers fundamentals of communicative sci disorders development with emphasis on practical and theoretical aspects.
+Prerequisites: None
+Offered: "Spring, Summer"
+Keywords: "Communicative Sci Disorders, Fundamentals, of, Communicative, Sci, Disorders, Development, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: None"
+---
+Subject: Communicative Sci Disorders
+Course Code: CSD109
+Course Title: Fundamentals of Communicative Sci Disorders Systems
+Description: This course covers fundamentals of communicative sci disorders systems with emphasis on practical and theoretical aspects.
+Prerequisites: CSD100 - Fundamentals of Communicative Sci Disorders Development
+Offered: "Spring, Fall, Summer"
+Keywords: "Communicative Sci Disorders, Fundamentals, of, Communicative, Sci, Disorders, Systems, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CSD100 - Fundamentals of Communicative Sci Disorders Development"
+---
+Subject: Communicative Sci Disorders
+Course Code: CSD118
+Course Title: Principles of Communicative Sci Disorders Practice
+Description: This course covers principles of communicative sci disorders practice with emphasis on practical and theoretical aspects.
+Prerequisites: CSD109 - Fundamentals of Communicative Sci Disorders Systems
+Offered: "Fall, Spring, Summer"
+Keywords: "Communicative Sci Disorders, Principles, of, Communicative, Sci, Disorders, Practice, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CSD109 - Fundamentals of Communicative Sci Disorders Systems"
+---
+Subject: Communicative Sci Disorders
+Course Code: CSD127
+Course Title: Principles of Communicative Sci Disorders Applications
+Description: This course covers principles of communicative sci disorders applications with emphasis on practical and theoretical aspects.
+Prerequisites: CSD118 - Principles of Communicative Sci Disorders Practice
+Offered: "Summer, Fall"
+Keywords: "Communicative Sci Disorders, Principles, of, Communicative, Sci, Disorders, Applications, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CSD118 - Principles of Communicative Sci Disorders Practice"
+---
+Subject: Communicative Sci Disorders
+Course Code: CSD136
+Course Title: Introduction to Communicative Sci Disorders Practice
+Description: This course covers introduction to communicative sci disorders practice with emphasis on practical and theoretical aspects.
+Prerequisites: CSD127 - Principles of Communicative Sci Disorders Applications
+Offered: Spring
+Keywords: "Communicative Sci Disorders, Introduction, to, Communicative, Sci, Disorders, Practice, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CSD127 - Principles of Communicative Sci Disorders Applications"
+---
+Subject: Communicative Sci Disorders
+Course Code: CSD145
+Course Title: Principles of Communicative Sci Disorders Development
+Description: This course covers principles of communicative sci disorders development with emphasis on practical and theoretical aspects.
+Prerequisites: CSD136 - Introduction to Communicative Sci Disorders Practice
+Offered: "Fall, Spring"
+Keywords: "Communicative Sci Disorders, Principles, of, Communicative, Sci, Disorders, Development, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CSD136 - Introduction to Communicative Sci Disorders Practice"
+---
+Subject: Communicative Sci Disorders
+Course Code: CSD154
+Course Title: Principles of Communicative Sci Disorders Applications
+Description: This course covers principles of communicative sci disorders applications with emphasis on practical and theoretical aspects.
+Prerequisites: CSD145 - Principles of Communicative Sci Disorders Development
+Offered: Summer
+Keywords: "Communicative Sci Disorders, Principles, of, Communicative, Sci, Disorders, Applications, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CSD145 - Principles of Communicative Sci Disorders Development"
+---
+Subject: Communicative Sci Disorders
+Course Code: CSD163
+Course Title: Introduction to Communicative Sci Disorders Analysis
+Description: This course covers introduction to communicative sci disorders analysis with emphasis on practical and theoretical aspects.
+Prerequisites: CSD154 - Principles of Communicative Sci Disorders Applications
+Offered: Spring
+Keywords: "Communicative Sci Disorders, Introduction, to, Communicative, Sci, Disorders, Analysis, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CSD154 - Principles of Communicative Sci Disorders Applications"
+---
+Subject: Communicative Sci Disorders
+Course Code: CSD172
+Course Title: Fundamentals of Communicative Sci Disorders Management
+Description: This course covers fundamentals of communicative sci disorders management with emphasis on practical and theoretical aspects.
+Prerequisites: CSD163 - Introduction to Communicative Sci Disorders Analysis
+Offered: "Spring, Fall, Summer"
+Keywords: "Communicative Sci Disorders, Fundamentals, of, Communicative, Sci, Disorders, Management, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CSD163 - Introduction to Communicative Sci Disorders Analysis"
+---
+Subject: Communicative Sci Disorders
+Course Code: CSD181
+Course Title: Fundamentals of Communicative Sci Disorders Practice
+Description: This course covers fundamentals of communicative sci disorders practice with emphasis on practical and theoretical aspects.
+Prerequisites: CSD172 - Fundamentals of Communicative Sci Disorders Management
+Offered: Fall
+Keywords: "Communicative Sci Disorders, Fundamentals, of, Communicative, Sci, Disorders, Practice, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CSD172 - Fundamentals of Communicative Sci Disorders Management"
+---
+Subject: Computer Sciences
+Course Code: CS100
+Course Title: Fundamentals of Computer Sciences Theory
+Description: This course covers fundamentals of computer sciences theory with emphasis on practical and theoretical aspects.
+Prerequisites: None
+Offered: "Fall, Spring, Summer"
+Keywords: "Computer Sciences, Fundamentals, of, Computer, Sciences, Theory, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: None"
+---
+Subject: Computer Sciences
+Course Code: CS109
+Course Title: Principles of Computer Sciences Design
+Description: This course covers principles of computer sciences design with emphasis on practical and theoretical aspects.
+Prerequisites: CS100 - Fundamentals of Computer Sciences Theory
+Offered: "Fall, Summer, Spring"
+Keywords: "Computer Sciences, Principles, of, Computer, Sciences, Design, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CS100 - Fundamentals of Computer Sciences Theory"
+---
+Subject: Computer Sciences
+Course Code: CS118
+Course Title: Introduction to Computer Sciences Development
+Description: This course covers introduction to computer sciences development with emphasis on practical and theoretical aspects.
+Prerequisites: CS109 - Principles of Computer Sciences Design
+Offered: "Fall, Spring"
+Keywords: "Computer Sciences, Introduction, to, Computer, Sciences, Development, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CS109 - Principles of Computer Sciences Design"
+---
+Subject: Computer Sciences
+Course Code: CS127
+Course Title: Principles of Computer Sciences Theory
+Description: This course covers principles of computer sciences theory with emphasis on practical and theoretical aspects.
+Prerequisites: CS118 - Introduction to Computer Sciences Development
+Offered: Summer
+Keywords: "Computer Sciences, Principles, of, Computer, Sciences, Theory, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CS118 - Introduction to Computer Sciences Development"
+---
+Subject: Computer Sciences
+Course Code: CS136
+Course Title: Fundamentals of Computer Sciences Practice
+Description: This course covers fundamentals of computer sciences practice with emphasis on practical and theoretical aspects.
+Prerequisites: CS127 - Principles of Computer Sciences Theory
+Offered: "Spring, Fall, Summer"
+Keywords: "Computer Sciences, Fundamentals, of, Computer, Sciences, Practice, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CS127 - Principles of Computer Sciences Theory"
+---
+Subject: Computer Sciences
+Course Code: CS145
+Course Title: Introduction to Computer Sciences Systems
+Description: This course covers introduction to computer sciences systems with emphasis on practical and theoretical aspects.
+Prerequisites: CS136 - Fundamentals of Computer Sciences Practice
+Offered: "Summer, Fall, Spring"
+Keywords: "Computer Sciences, Introduction, to, Computer, Sciences, Systems, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CS136 - Fundamentals of Computer Sciences Practice"
+---
+Subject: Computer Sciences
+Course Code: CS154
+Course Title: Principles of Computer Sciences Theory
+Description: This course covers principles of computer sciences theory with emphasis on practical and theoretical aspects.
+Prerequisites: CS145 - Introduction to Computer Sciences Systems
+Offered: "Summer, Fall, Spring"
+Keywords: "Computer Sciences, Principles, of, Computer, Sciences, Theory, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CS145 - Introduction to Computer Sciences Systems"
+---
+Subject: Computer Sciences
+Course Code: CS163
+Course Title: Introduction to Computer Sciences Practice
+Description: This course covers introduction to computer sciences practice with emphasis on practical and theoretical aspects.
+Prerequisites: CS154 - Principles of Computer Sciences Theory
+Offered: Summer
+Keywords: "Computer Sciences, Introduction, to, Computer, Sciences, Practice, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CS154 - Principles of Computer Sciences Theory"
+---
+Subject: Computer Sciences
+Course Code: CS172
+Course Title: Introduction to Computer Sciences Applications
+Description: This course covers introduction to computer sciences applications with emphasis on practical and theoretical aspects.
+Prerequisites: CS163 - Introduction to Computer Sciences Practice
+Offered: "Summer, Fall, Spring"
+Keywords: "Computer Sciences, Introduction, to, Computer, Sciences, Applications, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CS163 - Introduction to Computer Sciences Practice"
+---
+Subject: Computer Sciences
+Course Code: CS181
+Course Title: Introduction to Computer Sciences Theory
+Description: This course covers introduction to computer sciences theory with emphasis on practical and theoretical aspects.
+Prerequisites: CS172 - Introduction to Computer Sciences Applications
+Offered: Spring
+Keywords: "Computer Sciences, Introduction, to, Computer, Sciences, Theory, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CS172 - Introduction to Computer Sciences Applications"
+---
+Subject: Construction Management
+Course Code: CM100
+Course Title: Introduction to Construction Management Systems
+Description: This course covers introduction to construction management systems with emphasis on practical and theoretical aspects.
+Prerequisites: None
+Offered: "Fall, Spring"
+Keywords: "Construction Management, Introduction, to, Construction, Management, Systems, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: None"
+---
+Subject: Construction Management
+Course Code: CM109
+Course Title: Principles of Construction Management Analysis
+Description: This course covers principles of construction management analysis with emphasis on practical and theoretical aspects.
+Prerequisites: CM100 - Introduction to Construction Management Systems
+Offered: "Summer, Spring, Fall"
+Keywords: "Construction Management, Principles, of, Construction, Management, Analysis, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CM100 - Introduction to Construction Management Systems"
+---
+Subject: Construction Management
+Course Code: CM118
+Course Title: Principles of Construction Management Development
+Description: This course covers principles of construction management development with emphasis on practical and theoretical aspects.
+Prerequisites: CM109 - Principles of Construction Management Analysis
+Offered: "Fall, Spring, Summer"
+Keywords: "Construction Management, Principles, of, Construction, Management, Development, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CM109 - Principles of Construction Management Analysis"
+---
+Subject: Construction Management
+Course Code: CM127
+Course Title: Introduction to Construction Management Design
+Description: This course covers introduction to construction management design with emphasis on practical and theoretical aspects.
+Prerequisites: CM118 - Principles of Construction Management Development
+Offered: "Summer, Fall"
+Keywords: "Construction Management, Introduction, to, Construction, Management, Design, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CM118 - Principles of Construction Management Development"
+---
+Subject: Construction Management
+Course Code: CM136
+Course Title: Principles of Construction Management Management
+Description: This course covers principles of construction management management with emphasis on practical and theoretical aspects.
+Prerequisites: CM127 - Introduction to Construction Management Design
+Offered: "Fall, Summer"
+Keywords: "Construction Management, Principles, of, Construction, Management, Management, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Development, prerequisites: CM127 - Introduction to Construction Management Design"
+---
+Subject: Construction Management
+Course Code: CM145
+Course Title: Fundamentals of Construction Management Practice
+Description: This course covers fundamentals of construction management practice with emphasis on practical and theoretical aspects.
+Prerequisites: CM136 - Principles of Construction Management Management
+Offered: "Spring, Summer"
+Keywords: "Construction Management, Fundamentals, of, Construction, Management, Practice, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CM136 - Principles of Construction Management Management"
+---
+Subject: Construction Management
+Course Code: CM154
+Course Title: Fundamentals of Construction Management Development
+Description: This course covers fundamentals of construction management development with emphasis on practical and theoretical aspects.
+Prerequisites: CM145 - Fundamentals of Construction Management Practice
+Offered: "Fall, Spring"
+Keywords: "Construction Management, Fundamentals, of, Construction, Management, Development, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CM145 - Fundamentals of Construction Management Practice"
+---
+Subject: Construction Management
+Course Code: CM163
+Course Title: Principles of Construction Management Applications
+Description: This course covers principles of construction management applications with emphasis on practical and theoretical aspects.
+Prerequisites: CM154 - Fundamentals of Construction Management Development
+Offered: "Fall, Spring, Summer"
+Keywords: "Construction Management, Principles, of, Construction, Management, Applications, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: CM154 - Fundamentals of Construction Management Development"
+---
+Subject: Counseling
+Course Code: C100
+Course Title: Fundamentals of Counseling Development
+Description: This course covers fundamentals of counseling development with emphasis on practical and theoretical aspects.
+Prerequisites: None
+Offered: Fall
+Keywords: "Counseling, Fundamentals, of, Counseling, Development, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: None"
+---
+Subject: Counseling
+Course Code: C109
+Course Title: Principles of Counseling Practice
+Description: This course covers principles of counseling practice with emphasis on practical and theoretical aspects.
+Prerequisites: C100 - Fundamentals of Counseling Development
+Offered: "Summer, Fall"
+Keywords: "Counseling, Principles, of, Counseling, Practice, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: C100 - Fundamentals of Counseling Development"
+---
+Subject: Counseling
+Course Code: C118
+Course Title: Introduction to Counseling Analysis
+Description: This course covers introduction to counseling analysis with emphasis on practical and theoretical aspects.
+Prerequisites: C109 - Principles of Counseling Practice
+Offered: Fall
+Keywords: "Counseling, Introduction, to, Counseling, Analysis, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: C109 - Principles of Counseling Practice"
+---
+Subject: Counseling
+Course Code: C127
+Course Title: Introduction to Counseling Analysis
+Description: This course covers introduction to counseling analysis with emphasis on practical and theoretical aspects.
+Prerequisites: C118 - Introduction to Counseling Analysis
+Offered: "Fall, Spring"
+Keywords: "Counseling, Introduction, to, Counseling, Analysis, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: C118 - Introduction to Counseling Analysis"
+---
+Subject: Counseling
+Course Code: C136
+Course Title: Fundamentals of Counseling Development
+Description: This course covers fundamentals of counseling development with emphasis on practical and theoretical aspects.
+Prerequisites: C127 - Introduction to Counseling Analysis
+Offered: "Fall, Spring, Summer"
+Keywords: "Counseling, Fundamentals, of, Counseling, Development, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: C127 - Introduction to Counseling Analysis"
+---
+Subject: Psychology
+Course Code: P154
+Course Title: Principles of Psychology Management
+Description: This course covers principles of psychology management with emphasis on practical and theoretical aspects.
+Prerequisites: P145 - Principles of Psychology Practice
+Offered: "Spring, Fall"
+Keywords: "Psychology, Principles, of, Psychology, Management, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: P145 - Principles of Psychology Practice"
+---
+Subject: Psychology
+Course Code: P163
+Course Title: Principles of Psychology Applications
+Description: This course covers principles of psychology applications with emphasis on practical and theoretical aspects.
+Prerequisites: P154 - Principles of Psychology Management
+Offered: Spring
+Keywords: "Psychology, Principles, of, Psychology, Applications, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: P154 - Principles of Psychology Management"
+---
+Subject: Public Administration
+Course Code: PA100
+Course Title: Principles of Public Administration Design
+Description: This course covers principles of public administration design with emphasis on practical and theoretical aspects.
+Prerequisites: None
+Offered: "Summer, Spring, Fall"
+Keywords: "Public Administration, Principles, of, Public, Administration, Design, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: None"
+---
+Subject: Public Administration
+Course Code: PA109
+Course Title: Introduction to Public Administration Management
+Description: This course covers introduction to public administration management with emphasis on practical and theoretical aspects.
+Prerequisites: PA100 - Principles of Public Administration Design
+Offered: "Fall, Summer, Spring"
+Keywords: "Public Administration, Introduction, to, Public, Administration, Management, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: PA100 - Principles of Public Administration Design"
+---
+Subject: Public Administration
+Course Code: PA118
+Course Title: Principles of Public Administration Management
+Description: This course covers principles of public administration management with emphasis on practical and theoretical aspects.
+Prerequisites: PA109 - Introduction to Public Administration Management
+Offered: "Fall, Spring"
+Keywords: "Public Administration, Principles, of, Public, Administration, Management, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: PA109 - Introduction to Public Administration Management"
+---
+Subject: Public Administration
+Course Code: PA127
+Course Title: Principles of Public Administration Systems
+Description: This course covers principles of public administration systems with emphasis on practical and theoretical aspects.
+Prerequisites: PA118 - Principles of Public Administration Management
+Offered: Spring
+Keywords: "Public Administration, Principles, of, Public, Administration, Systems, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: PA118 - Principles of Public Administration Management"
+---
+Subject: Public Administration
+Course Code: PA136
+Course Title: Fundamentals of Public Administration Design
+Description: This course covers fundamentals of public administration design with emphasis on practical and theoretical aspects.
+Prerequisites: PA127 - Principles of Public Administration Systems
+Offered: "Spring, Summer"
+Keywords: "Public Administration, Fundamentals, of, Public, Administration, Design, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: PA127 - Principles of Public Administration Systems"
+---
+Subject: Public Administration
+Course Code: PA145
+Course Title: Introduction to Public Administration Systems
+Description: This course covers introduction to public administration systems with emphasis on practical and theoretical aspects.
+Prerequisites: PA136 - Fundamentals of Public Administration Design
+Offered: "Spring, Summer"
+Keywords: "Public Administration, Introduction, to, Public, Administration, Systems, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: PA136 - Fundamentals of Public Administration Design"
+---
+Subject: Public Administration
+Course Code: PA154
+Course Title: Introduction to Public Administration Theory
+Description: This course covers introduction to public administration theory with emphasis on practical and theoretical aspects.
+Prerequisites: PA145 - Introduction to Public Administration Systems
+Offered: Fall
+Keywords: "Public Administration, Introduction, to, Public, Administration, Theory, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: PA145 - Introduction to Public Administration Systems"
+---
+Subject: Public Administration
+Course Code: PA163
+Course Title: Fundamentals of Public Administration Systems
+Description: This course covers fundamentals of public administration systems with emphasis on practical and theoretical aspects.
+Prerequisites: PA154 - Introduction to Public Administration Theory
+Offered: "Spring, Fall"
+Keywords: "Public Administration, Fundamentals, of, Public, Administration, Systems, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: PA154 - Introduction to Public Administration Theory"
+---
+Subject: Public Administration
+Course Code: PA172
+Course Title: Fundamentals of Public Administration Design
+Description: This course covers fundamentals of public administration design with emphasis on practical and theoretical aspects.
+Prerequisites: PA163 - Fundamentals of Public Administration Systems
+Offered: "Spring, Fall"
+Keywords: "Public Administration, Fundamentals, of, Public, Administration, Design, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: PA163 - Fundamentals of Public Administration Systems"
+---
+Subject: Reading
+Course Code: R100
+Course Title: Fundamentals of Reading Development
+Description: This course covers fundamentals of reading development with emphasis on practical and theoretical aspects.
+Prerequisites: None
+Offered: "Summer, Fall, Spring"
+Keywords: "Reading, Fundamentals, of, Reading, Development, Introductory, Advanced, Principles, Fundamentals, Applied, Seminar, Techniques, Practice, Analysis, Design, Development, prerequisites: None"
+---
+Subject: Reading
+Course Code: R109
+Course Title: Fundamentals of Reading Analysis
+Description: This course covers fundamentals of reading analysis with emphasis on practical and theoretical aspects.
+Prerequisites: R100 - Fundamentals
