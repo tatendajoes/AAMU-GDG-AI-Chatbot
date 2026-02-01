@@ -12,20 +12,18 @@ A campus-wide survey revealed that about **10% of students struggle with registe
 
 The AAMU-GDG AI Chatbot addresses this by:
 - Providing **instant answers** to academic queries.
-- Offering **guidance on scholarship opportunities**.
 - Simplifying **course registration and graduation planning**.
 
 ## ✨ Features
 - **Course Information** – Quickly search course details, prerequisites, and requirements.
-- **Scholarship Finder** – Learn about scholarship opportunities and eligibility.
 - **Academic Guidance** – Understand graduation requirements and degree planning.
 - **Always Up to Date** – Uses web scraping and structured data for accuracy.
 
 ## 🛠️ Tech Stack
 - **Frontend:** React + TypeScript + TailwindCSS + Vite  
-- **Backend:** Python (FastAPI/Flask)  
-- **Data:** Web scraping (Selenium), CSVs, PDFs  
-- **AI/ML:** Fine-tuned language model, Pinecone for vector storage  
+- **Backend:** Node.js (Express.js) 
+- **Data:** Web scraping (Selenium), Python Scripts, Beautiful Soup
+- **AI/ML:** Fine-tuned LLMs, Superbase for vector storage  
 
 ## 🖥️ How to Use
 1. Open the chatbot application in your browser.
