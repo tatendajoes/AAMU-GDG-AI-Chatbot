@@ -8,6 +8,8 @@ import os
 import time as t
 import pandas as pd
 
+#--------------------------------------------------------------------------------------------------------------
+#List of subjects to select from the dropdown menu. This list is based on the options available in the dropdown menu on the SDO website.
 subjects = [
     "Accounting",
     "Apparel Merchandising Design",
@@ -85,6 +87,66 @@ subjects = [
     "Visual Art",
 ]
 
+
+#List of semesters to select from the dropdown menu. This list is based on the options available in the dropdown menu on the SDO website.
+semesters = [
+    "Fall 2026 (View only)",
+    "Summer 2026 (View only)",
+    "Spring 2026",
+    "Fall 2025 (View only)",
+    "Summer 2025 (View only)",
+    "Spring 2025 (View only)",
+    "Fall 2024 (View only)",
+    "Summer 2024 (View only)",
+    "Spring 2024 (View only)",
+    "Fall 2023 (View only)",
+    "Summer 2023 (View only)",
+    "Spring 2023 (View only)",
+    "Fall 2022 (View only)",
+    "Summer 2022 (View only)",
+    "Spring 2022 (View only)",
+    "Fall 2021 (View only)",
+    "Summer 2021 (View only)",
+    "Spring 2021 (View only)",
+    "Fall 2020 (View only)",
+    "Summer 2020 (View only)",
+    "Spring 2020 (View only)",
+    "Fall 2019 (View only)",
+    "Summer 2019 (View only)",
+    "Spring 2019 (View only)",
+    "Fall 2018 (View only)",
+    "Summer 2018 (View only)",
+    "Spring 2018 (View only)",
+    "Fall 2017 (View only)",
+    "Summer 2017 (View only)",
+    "Spring 2017 (View only)",
+    "Fall 2016 (View only)",
+    "Summer 2016 (View only)",
+    "Spring 2016 (View only)",
+    "Fall 2015 (View only)",
+    "Summer 2015 (View only)",
+    "Spring 2015 (View only)",
+    "Fall 2014 (View only)",
+    "Summer 2014 (View only)",
+    "Spring 2014 (View only)",
+    "Fall 2013 (View only)",
+    "Summer 2013 (View only)",
+    "Spring 2013 (View only)",
+    "Fall 2012 (View only)",
+    "Summer 2012 (View only)",
+    "Spring 2012 (View only)",
+    "Fall 2011 (View only)",
+    "Summer 2011 (View only)",
+    "Spring 2011 (View only)",
+    "Fall 2010 (View only)",
+    "Summer 2010 (View only)",
+    "Spring 2010 (View only)",
+    "Fall 2009 (View only)",
+]
+#-------------------------------------------------------------------------------------------------------------
+
+
+
 #Helper functions
 def parse_table(table):
     data= []
@@ -98,7 +160,10 @@ def parse_table(table):
             if len(cols) != len(headers) and isheader:
                 isheader = False
     return isheader ,headers, data
-            
+   
+   
+#-------------------------------------------------------------------------------------------------------------            
+access_point = input("Enter the access point for the SDO website: ")
 #-------------------------------------------------------------------------------------------------------------
 options = Options()
 PROFILE_PATH = os.path.join(os.getcwd(), "DataCollection", "profile")
@@ -106,7 +171,7 @@ options.add_argument(f"user-data-dir={PROFILE_PATH}")
 driver = webdriver.Chrome(options=options)
 wait = WebDriverWait(driver, 10)
 #-------------------------------------------------------------------------------------------------------------
-driver.get('https://sdo.aamu.edu/?saml=3d4a6742-fe19-4d8d-9d5b-67391dc05c1f')
+driver.get(access_point)
 t.sleep(20)
 driver.find_element(By.XPATH, '/html/body/div[1]/div[2]/span/map/table/tbody/tr[1]/td/table/tbody/tr/td[3]/a').click()
 t.sleep(5)
